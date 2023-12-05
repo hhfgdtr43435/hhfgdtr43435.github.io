@@ -2,7 +2,7 @@
   "MyAds": {
     "AppID": "ca-app-pub-3940256099942544~3347511713",
     "InterstitialNL": "/21857590943,23015343160/psa_remote_control_for_mxq_pro_4k/interstitial",
-     "clickCount": "4",
+     "clickCount": "2",
      "Timer":"1500",
      "ALreadyClick":"true"
 
