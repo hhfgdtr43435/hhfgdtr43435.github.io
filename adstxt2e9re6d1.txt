@@ -3,7 +3,7 @@
     "AppID": "",
     "InterstitialNL": "",
      "clickCount": "2",
-     "Timer":"1500",
+     "Timer":"300000",
      "ALreadyClick":"true"
 
   }
